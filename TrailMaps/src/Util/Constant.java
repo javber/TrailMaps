@@ -18,10 +18,10 @@ public final class Constant {
 	public static String LG_CSS_BTLogin = "btLogin";
 	public static String LG_CSS_TXLogin = "txTitleLogin";
 
-	public static String LG_IMAGE_BACKGROUND_LOGIN = "file:///C:/Users/Javier/eclipse-workspace/TrailMaps/src/Util/imagines/background_4.jpg";
-	public static String LG_IMAGE_LOADING_LOGIN = "file:///C:/Users/Javier/eclipse-workspace/TrailMaps/src/Util/imagines/cargando.gif";
-	public static String LG_IMAGE_ACCEPT_LOGIN = "file:///C:/Users/Javier/eclipse-workspace/TrailMaps/src/Util/imagines/accept.png";
-	public static String LG_IMAGE_DENY_LOGIN = "file:///C:/Users/Javier/eclipse-workspace/TrailMaps/src/Util/imagines/deny.png";
+	public static String LG_IMAGE_BACKGROUND_LOGIN = "file:///C:/Users/Javier/git/TrailMaps/TrailMaps/src/Util/imagines/background_4.jpg";
+	public static String LG_IMAGE_LOADING_LOGIN = "file:///C:/Users/Javier/git/TrailMaps/TrailMaps/src/Util/imagines/cargando.gif";
+	public static String LG_IMAGE_ACCEPT_LOGIN = "file:///C:/Users/Javier/git/TrailMaps/TrailMaps/src/Util/imagines/accept.png";
+	public static String LG_IMAGE_DENY_LOGIN = "file:///C:/Users/Javier/git/TrailMaps/TrailMaps/src/Util/imagines/deny.png";
 
 	public static String LG_TF_USER = "User";
 	public static String LG_TF_PASSWORD = "Password";
